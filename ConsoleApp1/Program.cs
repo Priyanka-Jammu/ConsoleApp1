@@ -9,6 +9,6 @@ class Program
         Console.ReadLine();
 
         int x;
-        x=3;
+        x=4;
     }
 }
